@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋, I'm Sanket Sawant
 
-<!--
-**sanketsawant/sanketsawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering Specialist with over 16 years of experience leading the development of high-impact, innovative mobile applications for global enterprises. Based in Belfast, UK, my expertise lies in iOS and cross-platform development, mobile architecture, and product innovation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Technologies & Tools**
+
+* **Mobile:** Swift, Objective-C, Flutter, iOS SDK, SwiftUI
+* **Architecture:** MVVM, Clean Architecture, Plugin-based Design
+* **DevOps:** GitLab CI/CD, Docker
+
+---
+
+**🌱 I'm currently working on:**
+
+* **[Handwritten Chess Notation Scanner](https://github.com/sanketsawant/Handwritten-chess-notation-scanner):** An AI-powered mobile application to digitise handwritten chess scoresheets using OCR and a custom AI agent. This project is a key part of my future plans to contribute to the UK's digital technology sector.
+
+---
+
+**📫 How to reach me:**
+
+* **LinkedIn:** [Your LinkedIn Profile URL]
