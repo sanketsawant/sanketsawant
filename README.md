@@ -14,7 +14,7 @@ I am a Software Engineering Specialist with over 16 years of experience leading 
 
 **🌱 I'm currently working on:**
 
-* **[Handwritten Chess Notation Scanner](https://github.com/sanketsawant/Handwritten-chess-notation-scanner):** An AI-powered mobile application to digitise handwritten chess scoresheets using OCR and a custom AI agent. This project is a key part of my future plans to contribute to the UK's digital technology sector.
+* **[Handwritten Chess Notation Scanner](https://github.com/sanketsawant/Handwritten-chess-notation-scanner):** An AI-powered mobile application to digitise handwritten chess scoresheets using OCR and a custom AI agent. 
 
 ---
 
